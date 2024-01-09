@@ -14,6 +14,7 @@ The purpose of this notebook is to study the application of LSTM with PyTorch in
 - _Tesla.csv_: Data used for analyses.
 - _model.py_: LSTM model used for training and predictions.
 - _tesla-stock-forecasting.ipynb_: Jupyter Notebook used for data analyses, prepocessing, training and test the data.
+- _results_: Model plot results.
 
 ## Results
 
